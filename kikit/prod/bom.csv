@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+SMD0805-050-16V,F1,Fuse:Fuse_1206_3216Metric,
+GZ2012D601TF,FB1,Inductor_SMD:L_0805_2012Metric,
+TYPE-C-31-M-12,J1,locallib:HRO-TYPE-C-31-M-12-Assembly,
+TPD4E05U06DQAR,U1,acheron_Components:USON-10_2.5x1.0mm_P0.5mm,
+78171-0004,J2,locallib:PicoEZMate-Reinforced-Lite,
+ESD5Z5V0,D1,Diode_SMD:D_SOD-523,
+5.1k,"R1,R2",Resistor_SMD:R_0402_1005Metric,
