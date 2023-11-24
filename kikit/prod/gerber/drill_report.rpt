@@ -1,5 +1,5 @@
 Drill report for udb-s-panel.kicad_pcb
-Created on Saturday, November 11, 2023 at 11:45:37 AM
+Created on Sunday, November 12, 2023 at 06:22:16 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -24,7 +24,8 @@ Drill file 'udb-s-panel.drl' contains
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
-    T6  0.650mm  0.0256"  (20 holes)
-    T7  2.000mm  0.0787"  (3 holes)
+    T6  0.500mm  0.0197"  (248 holes)
+    T7  0.650mm  0.0256"  (20 holes)
+    T8  2.000mm  0.0787"  (3 holes)
 
-    Total unplated holes count 23
+    Total unplated holes count 271
